@@ -1,4 +1,4 @@
 this is the first file
 this is a change
 master commit 1
-master commit 2
+merge commit 1
